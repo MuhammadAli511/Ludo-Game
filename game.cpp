@@ -8,10 +8,10 @@
 
 using namespace std;
 
+
 // STRUCTS
 struct ludo
 {
-	//character pointer to a pointer
 	char** board;
 };
 
