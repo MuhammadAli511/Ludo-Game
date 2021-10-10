@@ -43,7 +43,7 @@ struct stops
 	int y_cor;
 };
 
-
+//struct for token
 struct token
 {
 	int x_cor;
@@ -55,7 +55,7 @@ struct token
 	int location;
 };
 
-
+//struct for turns
 struct turns
 {
 	bool green_turn;
