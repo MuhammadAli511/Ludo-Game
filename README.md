@@ -17,7 +17,7 @@
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/83888735/232159361-bd3bd271-609f-4148-b183-6a15c45d47d9.gif">
+  <img src="https://github.com/MuhammadAli511/Ludo-Game/assets/83888735/eae0994e-2912-43cf-b633-309f1c9e1d3a">
 </p>
 
 
